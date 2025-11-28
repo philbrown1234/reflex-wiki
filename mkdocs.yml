@@ -3,5 +3,7 @@ site_url: https://reflexwiki.gg
 
 theme:
   name: material
+  logo: reflexlogo.svg
+  favicon: reflexlogo.svg
   palette:
     scheme: slate
