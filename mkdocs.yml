@@ -1,0 +1,7 @@
+site_name: Reflex Wiki
+site_url: https://reflexwiki.gg
+
+theme:
+  name: material
+  palette:
+    scheme: slate
