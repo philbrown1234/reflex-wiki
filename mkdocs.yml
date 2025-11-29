@@ -11,6 +11,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+      primary: black
+      accent: red
     # Palette toggle for light mode
     - scheme: default
       toggle:
@@ -21,6 +23,12 @@ theme:
 
 extra:
   social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/reflex
+      name: Reflex Arena on Discord
     - icon: fontawesome/brands/steam
       link: https://store.steampowered.com/app/328070/Reflex_Arena/
       name: Reflex Arena on Steam
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/ReflexArena
+      name: Reflex Arena on Twitter
