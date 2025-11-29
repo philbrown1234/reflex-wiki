@@ -1,5 +1,40 @@
-site_name: Reflex Wiki
+site_name: Reflex Arena Wiki
 site_url: https://reflexwiki.gg
+
+nav:
+  - Reflex Arena:
+    - Home: index.md
+    - What is Reflex Arena?: reflex-arena/what-is-reflex.md
+    - Reflex's Netcode: reflex-arena/netcode.md
+  - Gameplay:
+    - Gameplay: gameplay/index.md
+    - Movement: gameplay/movement.md
+    - Weapons: gameplay/weapons.md
+    - Pickups: gameplay/pickups.md
+    - Maps: gameplay/maps.md
+    - Rulesets: gameplay/rulesets.md
+    - Game Modes:
+      - Game Modes: gameplay/game-modes/index.md
+      - Duel: gameplay/game-modes/duel.md
+      - TDM: gameplay/game-modes/tdm.md
+      - FFA: gameplay/game-modes/ffa.md
+      - CTF: gameplay/game-modes/ctf.md
+      - Clan Arena: gameplay/game-modes/clan-arena.md
+  - Level Editor:
+    - Overview: level-editor/overview.md
+    - Getting Started: level-editor/getting-started.md
+    - Tutorials: level-editor/tutorials.md
+  - Replay Editor:
+    - Overview: replay-editor/overview.md
+    - Getting Started: replay-editor/getting-started.md
+    - Tutorials: replay-editor/tutorials.md
+  - HUD Editor / Widgets:
+    - Widgets: hud-editor/widgets.md
+  - Guides:
+    - Guides: guides/index.md
+    - Console Commands: guides/console-commands.md
+    - Config Files: guides/config-files.md
+    - Creating a Dedicated Server: guides/dedicated-server.md
 
 theme:
   name: material
@@ -19,7 +54,11 @@ theme:
         icon: material/brightness-7 
         name: Switch to dark mode
   features:
-    - navigation.footer
+    # - navigation.footer
+    - navigation.instant
+    # - navigation.tabs
+    - navigation.tracking
+    - navigation.indexes
 
 extra:
   social:
