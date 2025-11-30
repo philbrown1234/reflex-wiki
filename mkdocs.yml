@@ -8,18 +8,13 @@ nav:
     - Reflex's Netcode: reflex-arena/netcode.md
   - Gameplay:
     - Gameplay: gameplay/index.md
+    - Game Modes: gameplay/game-modes.md
+    - Mutators: gameplay/mutators.md
     - Movement: gameplay/movement.md
     - Weapons: gameplay/weapons.md
     - Pickups: gameplay/pickups.md
     - Maps: gameplay/maps.md
     - Rulesets: gameplay/rulesets.md
-    - Game Modes:
-      - Game Modes: gameplay/game-modes/index.md
-      - Duel: gameplay/game-modes/duel.md
-      - TDM: gameplay/game-modes/tdm.md
-      - FFA: gameplay/game-modes/ffa.md
-      - CTF: gameplay/game-modes/ctf.md
-      - Clan Arena: gameplay/game-modes/clan-arena.md
   - Level Editor:
     - Overview: level-editor/overview.md
     - Getting Started: level-editor/getting-started.md

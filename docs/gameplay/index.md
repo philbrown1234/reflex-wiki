@@ -4,8 +4,18 @@ Welcome to the Gameplay section of the Reflex Arena Wiki. This page is a landing
 
 ## Game modes
 
-- [Duel](game-modes/duel.md)
-- [TDM](game-modes/tdm.md)
-- [FFA](game-modes/ffa.md)
-- [CTF](game-modes/ctf.md)
-- [Clan Arena](game-modes/clan-arena.md)
+### [Duel](game-modes.md)
+### [TDM](game-modes.md)
+### [FFA](game-modes.md)
+### [CTF](game-modes.md)
+
+## Mutators
+- [Warmup](mutators.md)
+- [Vampire](mutators.md)
+- [Handicap](mutators.md)
+- [Arena](mutators.md)
+- [Low-gravity](mutators.md)
+- [Instagib](mutators.md)
+- [Bighead](mutators.md)
+- [Melee Only](mutators.md)
+- [Unlimited Ammo](mutators.md)
