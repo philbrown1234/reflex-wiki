@@ -1,16 +1,15 @@
 # Game Modes
 
-This page is the Game Modes landing page.
+## 1v1
 
-## Duel
-
+## 2v2
 
 ## TDM
 
-
 ## FFA
-
 
 ## CTF
 
+## Race
 
+## Training
